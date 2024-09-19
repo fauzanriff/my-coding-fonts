@@ -1,5 +1,7 @@
 # My Coding Fonts
-Fonts that I used on VSCode and iTerm
+Fonts that I used
+
+Code fonts:
 
 - FiraCode
 - FiraCodeiScript
@@ -8,3 +10,7 @@ Fonts that I used on VSCode and iTerm
 - Operator Mono Lig
 - Operator Mono SSm
 - VictorMonoAll
+
+Reader fonts:
+
+- Georgia
